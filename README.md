@@ -7,19 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/raikusy" target="blank"><img src="https://img.shields.io/twitter/follow/raikusy?logo=twitter&style=for-the-badge" alt="raikusy" /></a> </p>
 
-- 🔭 I’m currently working on [Ovechr](http://ovechr.com/)
+- 🔭 I’m currently working on [Ovechr](https://ovechr.com/)
 
 - 🌱 I’m currently learning **System Design & Architecture**
 
-- 👨‍💻 All of my projects are available at [raikusy.github.io](raikusy.github.io)
-
-- 📝 I regularly write articles on [raikusy.github.io](raikusy.github.io)
+- 📝 I regularly write articles on [https://raikusy.github.io](https://raikusy.github.io)
 
 - 💬 Ask me about **react, next, nest, node, docker**
 
 - 📫 How to reach me **xenax.rakibul@gmail.com**
-
-- 📄 Know about my experiences [raikusy.github.io](raikusy.github.io)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
