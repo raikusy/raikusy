@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/raikusy" target="blank"><img src="https://img.shields.io/twitter/follow/raikusy?logo=twitter&style=for-the-badge" alt="raikusy" /></a> </p>
 
-- 🔭 I’m currently working on [Ovechr](https://ovechr.com/)
+- 🔭 I’m currently working on [Minicabit](https://minicabit.com/)
 
 - 🌱 I’m currently learning **System Design & Architecture**
 
