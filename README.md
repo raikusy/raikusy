@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/raikusy" target="blank"><img src="https://img.shields.io/twitter/follow/raikusy?logo=twitter&style=for-the-badge" alt="raikusy" /></a> </p>
 
-- 🔭 I’m currently working on [Minicabit](https://minicabit.com/)
+- 🔭 I’m currently working on [Strativ AB](https://strativ.se/en/)
 
 - 🌱 I’m currently learning **System Design & Architecture**
 
 - 📝 I regularly write articles on [https://raikusy.github.io](https://raikusy.github.io)
 
-- 💬 Ask me about **react, next, nest, node, docker**
+- 💬 Ask me about **react, next, nest, node, javscript, typescript**
 
 - 📫 How to reach me **xenax.rakibul@gmail.com**
 
