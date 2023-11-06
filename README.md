@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/raikusy" target="blank"><img src="https://img.shields.io/twitter/follow/raikusy?logo=twitter&style=for-the-badge" alt="raikusy" /></a> </p>
 
-- 🔭 I’m currently working on [Strativ AB](https://strativ.se/en/)
+- 🔭 I’m currently working on [RedQ](https://redq.io/)
 
 - 🌱 I’m currently learning **System Design & Architecture**
 
