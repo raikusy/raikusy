@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **System Design & Architecture**
 
-- 📝 I regularly write articles on [https://raikusy.github.io](https://raikusy.github.io)
+- 📝 I regularly write articles on [https://raikusy.dev/blog](https://raikusy.dev/blog)
 
 - 💬 Ask me about **react, next, nest, node, javscript, typescript**
 
